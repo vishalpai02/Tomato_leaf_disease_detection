@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>ClipartKey_107809.png</file>
+    <file>tomato_PNG12588.png</file>
+  </qresource>
+</RCC>
